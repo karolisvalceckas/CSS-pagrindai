@@ -1,0 +1,28 @@
+.container{
+	background: url('../image/img6.jpg');
+}
+
+h1{
+    line-height: 100px;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 2.5;
+    font-family: 'Cairo Play', cursive;
+}
+h2{
+    text-align: right;
+    font-size: 2.3;
+    font-family: 'Roboto Mono', monospace;
+}
+p{
+    text-align: justify;
+    font-size: 2.1;
+    font-family: 'Aref Ruqaa Ink', serif;
+}
+.footer{
+    text-align: center;
+}
+a{
+    text-decoration: none;
+}
+.section{background-color:rgba(120, 200, 80, 0.6) ;}
